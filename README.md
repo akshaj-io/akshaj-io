@@ -27,7 +27,7 @@
 ### 🔐 SOC Analyst L1 | NOC Engineer | Cybersecurity Professional
 
 [![Email](https://img.shields.io/badge/📧-akshajkumar.in@gmail.com-EA4335?style=flat-square)](mailto:akshajkumar.in@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/akshajkumar)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat-square)](www.linkedin.com/in/akshaj-io)
 [![Phone](https://img.shields.io/badge/📞-+91_807_557_4285-25D366?style=flat-square)](tel:+918075574285)
 [![Location](https://img.shields.io/badge/📍-Bengaluru,_India-FF6B6B?style=flat-square)](#)
 
@@ -252,8 +252,8 @@ Security is not a product, but a process.
 ### 🚀 QUICK CONNECT
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshajkumar.in@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshajkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshajkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akshaj-io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaj-io)
 
 ---
 
