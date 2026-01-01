@@ -1,16 +1,4 @@
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/akshaj-io/akshaj-io/main/assets/banner.jpeg"
-     alt="Cyber Banner"
-     width="100%">
-
-<br><br>
-
-#<img src="https://raw.githubusercontent.com/akshaj-io/akshaj-io/main/assets/avatar.png"
-     alt="Akshaj Kumar Avatar"
-     width="150">
-
-</div>
 
 ```
  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗      ██╗  ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
