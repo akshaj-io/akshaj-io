@@ -1,228 +1,242 @@
-
+<div align="center">
 
 ```
- █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗      ██╗  ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
-██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗     ██║  ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-███████║█████╔╝ ███████╗███████║███████║     ██║  █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██   ██║  ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-██║  ██║██║  ██╗███████║██║  ██║██║  ██║╚█████╔╝  ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+ █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗      ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
+██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗     ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+███████║█████╔╝ ███████╗███████║███████║     █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║     ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+██║  ██║██║  ██╗███████║██║  ██║██║  ██║     ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### 🔐 Cybersecurity Professional | SOC Analyst L1 | NOC Engineer
+### 🔐 SOC Analyst L1 | NOC Engineer | Cybersecurity Professional
 
-[![Email](https://img.shields.io/badge/Email-akshajkumar.in%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshajkumar.in@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshajkumar)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%20807%20557%204285-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918075574285)
+[![Email](https://img.shields.io/badge/📧-akshajkumar.in@gmail.com-EA4335?style=flat-square)](mailto:akshajkumar.in@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/akshajkumar)
+[![Phone](https://img.shields.io/badge/📞-+91_807_557_4285-25D366?style=flat-square)](tel:+918075574285)
+[![Location](https://img.shields.io/badge/📍-Bengaluru,_India-FF6B6B?style=flat-square)](#)
 
-![Terminal](https://img.shields.io/badge/TERMINAL-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-FF6C11?style=flat-square&logo=security&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC%20ANALYST-00D4FF?style=flat-square&logo=shield&logoColor=white)
-![NOC](https://img.shields.io/badge/NOC%20ENGINEER-00FF9D?style=flat-square&logo=cisco&logoColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=akshajkumar&color=00FF9D&style=flat-square)
 
 </div>
 
----
-
-## 🎯 About Me
-
-Cybersecurity professional specializing in **SOC L1 operations**, **NOC monitoring**, and **security engineering**. Experienced in SIEM analysis, endpoint security, firewall management, and infrastructure operations. Currently seeking opportunities in **SOC Analyst (L1)** or **NOC Engineer** roles.
-
 ```bash
-┌──[akshajkumar@soc-workstation]
-└─$ whoami
-akshajkumar-m | SOC Analyst | Bengaluru, India
-
-┌──[akshajkumar@soc-workstation]
-└─$ cat skills.txt
-Security Monitoring • Incident Response • Threat Detection • Infrastructure Management
-
-┌──[akshajkumar@soc-workstation]
-└─$ systemctl status career.service
-● career.service - Security Operations Career
-   Loaded: loaded (/etc/systemd/system/career.service; enabled)
-   Active: active (seeking) since 2025-01-01
-   Status: "Ready for SOC/NOC challenges"
+┌─[akshajkumar@soc-terminal]─[~]
+└──╼ $ cat profile.txt
+Cybersecurity professional | SIEM Analysis | Incident Response | Firewall Management
+Seeking: SOC Analyst (L1) / NOC Engineer roles
+Status: [████████████████] Ready for Security Challenges
 ```
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
 
-### 🔵 **SOC Analyst (L1)** @ Cyberjeet
-**Apr 2025 – Present** | Bengaluru, India
+## 💼 EXPERIENCE
 
-```diff
-+ Monitor and analyze security alerts using ArcSight, Wazuh, and ELK Stack SIEM platforms
-+ Investigate endpoint incidents with Sophos EDR/XDR and perform IOC analysis
-+ Support alert triage aligned with MITRE ATT&CK framework and ticketing workflows
-+ Assist with FortiSIEM and Trend Micro Deep Security deployment
-+ Review enterprise firewall logs across Palo Alto, SonicWall, Barracuda WAF, and Check Point
-```
+</div>
 
-### 🛡️ **Cybersecurity Intern** @ TechnoLabs Software
-**Nov 2024 – Mar 2025** | Remote
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```diff
-+ Built Threat Intelligence Platform using ELK Stack SIEM with OSINT feeds
-+ Integrated AlienVault OTX, VirusTotal, and Shodan APIs for IOC enrichment
-+ Created dashboards for anomaly detection and threat visualization
-+ Supported SOC fine-tuning and vulnerability analysis workflows
-+ Prepared comprehensive security reports for threat assessment
-```
+**🔵 SOC Analyst (L1)**  
+**Cyberjeet** | Apr 2025 – Present
 
----
+• SIEM monitoring (ArcSight, Wazuh, ELK)  
+• Endpoint investigation (Sophos EDR/XDR)  
+• MITRE ATT&CK framework alignment  
+• FortiSIEM & Trend Micro deployment  
+• Firewall log analysis (Palo Alto, SonicWall)
 
-## 🛠️ Technical Arsenal
+</td>
+<td width="50%" valign="top">
 
-### Security Operations
-![ArcSight](https://img.shields.io/badge/ArcSight-FF6C11?style=for-the-badge&logo=microfocus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-00B1E1?style=for-the-badge&logo=wazuh&logoColor=white)
-![FortiSIEM](https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Sophos](https://img.shields.io/badge/Sophos%20EDR/XDR-00B1E1?style=for-the-badge&logo=sophos&logoColor=white)
-![Trend Micro](https://img.shields.io/badge/Trend%20Micro-D71921?style=for-the-badge&logo=trendmicro&logoColor=white)
+**🛡️ Cybersecurity Intern**  
+**TechnoLabs Software** | Nov 2024 – Mar 2025
 
-### Network Security
-![Palo Alto](https://img.shields.io/badge/Palo%20Alto-FF6C11?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![SonicWall](https://img.shields.io/badge/SonicWall-FF5E00?style=for-the-badge&logo=sonicwall&logoColor=white)
-![Check Point](https://img.shields.io/badge/Check%20Point-00AEEF?style=for-the-badge&logo=checkpoint&logoColor=white)
-![Barracuda](https://img.shields.io/badge/Barracuda%20WAF-ED1C24?style=for-the-badge&logo=barracuda&logoColor=white)
+• Built Threat Intelligence Platform  
+• Integrated OSINT feeds & APIs  
+• Created anomaly detection dashboards  
+• SOC fine-tuning & vulnerability analysis  
+• Security reporting & threat assessment
 
-### Infrastructure & Virtualization
-![VMware](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![HPE](https://img.shields.io/badge/HPE%20VM%20Essentials-0096D6?style=for-the-badge&logo=hpe&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white)
-
-### Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LibreNMS](https://img.shields.io/badge/LibreNMS-0095D5?style=for-the-badge&logo=statuspage&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+<div align="center">
 
-**BSc in Computer Science**  
-College of Applied Science, Adoor – University of Kerala (2021–2024)  
-*Key Focus: Cybersecurity, Networking, Python, Cloud Computing, IoT*
+## 🛠️ TECH STACK
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Security Operations**  
+![ArcSight](https://img.shields.io/badge/ArcSight-FF6C11?style=flat-square&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00B1E1?style=flat-square&logoColor=white)
+![FortiSIEM](https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos_EDR-00B1E1?style=flat-square&logoColor=white)
+![TrendMicro](https://img.shields.io/badge/Trend_Micro-D71921?style=flat-square&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**Network Security**  
+![PaloAlto](https://img.shields.io/badge/Palo_Alto-FF6C11?style=flat-square&logoColor=white)
+![SonicWall](https://img.shields.io/badge/SonicWall-FF5E00?style=flat-square&logoColor=white)
+![CheckPoint](https://img.shields.io/badge/Check_Point-00AEEF?style=flat-square&logoColor=white)
+![Barracuda](https://img.shields.io/badge/Barracuda-ED1C24?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**Infrastructure**  
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logoColor=white)
+![HPE](https://img.shields.io/badge/HPE-0096D6?style=flat-square&logoColor=white)
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white)
+![LibreNMS](https://img.shields.io/badge/LibreNMS-0095D5?style=flat-square&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
+<div align="center">
 
-![CEH](https://img.shields.io/badge/CEH%20v12-EC--Council-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet%20NSE--FCF-Certified-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+## 🎯 CORE SKILLS
 
----
+</div>
 
-## 🔬 Projects & Labs
+<table>
+<tr>
+<td width="50%">
 
-### **🎯 Threat Intelligence Platform**
-```python
-# Developed localized TIP using ELK Stack SIEM
-def threat_intel_platform():
-    osint_feeds = ["AlienVault OTX", "VirusTotal", "Shodan"]
-    automate_ioc_enrichment()
-    detect_anomalies()
-    augment_siem_detection()
-```
-
-### **🔥 Palo Alto Firewall Lab**
-```bash
-# Configured virtual lab environment
-$ configure security rules
-$ setup nat_policies --mode advanced
-$ validate traffic_flow --endpoint all
-$ configure ipsec_tunnel --secure-arch
-```
-
-### **🖥️ Infrastructure Operations**
 ```yaml
-Operations:
-  - VMware ESXi/HPE VM Essentials virtualization
-  - Veeam Backup & Replication for disaster recovery
-  - Data center migration: Load Balancers, WAFs, Firewalls
-  - Racking, cabling, HA concepts, NOC/SOC workflows
+Security Operations:
+  - Log Analysis & SIEM Monitoring
+  - Incident Response & Triage
+  - Threat Detection & IOC Analysis
+  - MITRE ATT&CK Framework
+  - Vulnerability Assessment
 ```
 
----
+</td>
+<td width="50%">
 
-## 📊 Core Competencies
+```yaml
+Network & Infrastructure:
+  - TCP/IP, DNS, VPN, VLAN
+  - Firewall Configuration
+  - NAT, IPSec, Routing
+  - Virtualization (VMware, HPE)
+  - Backup & Disaster Recovery
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-| **🛡️ Security Operations** | **🌐 Network & Infrastructure** | **🔧 Tools & Platforms** |
-|---------------------------|----------------------------------|--------------------------|
-| Log Analysis & SIEM Monitoring | TCP/IP, DNS, VPN, VLAN | Linux & Windows |
-| Incident Response & Triage | Firewall Configuration | VMware & HPE Virtualization |
-| Threat Detection & IOC Analysis | NAT, IPSec, Routing | Backup & Disaster Recovery |
-| MITRE ATT&CK Framework | Network Security Architecture | EDR/XDR Solutions |
-| Vulnerability Assessment | High Availability Design | API Integration |
+## 🔬 KEY PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🎯 Threat Intelligence Platform**
+
+ELK Stack SIEM with OSINT feeds (AlienVault OTX, VirusTotal, Shodan). Automated IOC enrichment & anomaly detection.
+
+</td>
+<td width="33%" valign="top">
+
+**🔥 Palo Alto Firewall Lab**
+
+Virtual lab with security rules, NAT policies, traffic validation, and IPSec tunnel configuration.
+
+</td>
+<td width="33%" valign="top">
+
+**🖥️ Infrastructure Operations**
+
+VMware ESXi/HPE virtualization, Veeam backup, and data center migrations (load balancers, WAFs, firewalls).
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 IMPACT & ACHIEVEMENTS
+
+![SOC Alerts](https://img.shields.io/badge/Alerts_Monitored-100+-00FF9D?style=for-the-badge&logo=target&logoColor=white)
+![Incidents](https://img.shields.io/badge/Incidents_Investigated-50+-00D4FF?style=for-the-badge&logo=security&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls_Configured-4-FF6C11?style=for-the-badge&logo=firewall&logoColor=white)
+![VMs](https://img.shields.io/badge/VMs_Managed-20+-9B59B6?style=for-the-badge&logo=vmware&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Impact Metrics
-
 <div align="center">
 
-![Alerts Monitored](https://img.shields.io/badge/SOC%20Alerts%20Monitored-100%2B-00FF9D?style=for-the-badge&logo=target&logoColor=white)
-![Incidents](https://img.shields.io/badge/Incidents%20Investigated-50%2B-00D4FF?style=for-the-badge&logo=security&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls%20Configured-4-FF6C11?style=for-the-badge&logo=firewall&logoColor=white)
-![VMs](https://img.shields.io/badge/VMs%20Managed-20%2B-9B59B6?style=for-the-badge&logo=vmware&logoColor=white)
+## 🎓 EDUCATION & CERTIFICATIONS
+
+**BSc in Computer Science** | College of Applied Science, Adoor (2021–2024)  
+*Focus: Cybersecurity, Networking, Python, Cloud Computing*
+
+![CEH](https://img.shields.io/badge/CEH_v12-EC--Council-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet_NSE--FCF-Certified-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 
 </div>
 
 ---
 
-## 🎮 Terminal Status
+<div align="center">
 
 ```bash
-┌──[akshajkumar@soc-workstation]
-└─$ ./status_check.sh
-
-████████████████████████████████████████████████████████████████████
-█                                                                  █
-█  🔵 BLUE TEAM DEFENDER | 🛡️ SECURITY OPERATIONS SPECIALIST       █
-█                                                                  █
-█  💼 Current Status: Actively seeking SOC L1 / NOC Engineer roles █
-█  📍 Location: Bengaluru, India                                   █
-█  🎯 Mission: Protect • Detect • Respond                          █
-█                                                                  █
-████████████████████████████████████████████████████████████████████
-
-┌──[akshajkumar@soc-workstation]
-└─$ echo "Security is not a product, but a process."
+┌─[akshajkumar@soc-terminal]─[~]
+└──╼ $ echo "Security is not a product, but a process."
 Security is not a product, but a process.
 
-┌──[akshajkumar@soc-workstation]
-└─$ cat contact.txt
-📧 akshajkumar.in@gmail.com
-📞 +91 807 557 4285
-🔗 linkedin.com/in/akshajkumar
+┌─[akshajkumar@soc-terminal]─[~]  
+└──╼ $ systemctl status career.service
+● career.service - Security Operations Career
+   Active: [SEEKING] SOC Analyst L1 / NOC Engineer
+   Mission: Protect • Detect • Respond
+   
+┌─[akshajkumar@soc-terminal]─[~]
+└──╼ $ cat /proc/uptime
+[████████████████████████████] 100% Ready for Opportunities
 ```
 
----
+### 🚀 QUICK CONNECT
 
-<div align="center">
-
-### 🚀 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshajkumar.in@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshajkumar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshajkumar.in@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshajkumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshajkumar)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshajkumar&color=00FF9D&style=for-the-badge&label=PROFILE+VIEWS)
-
-```
-[████████████████████████████████████████] 100% READY FOR OPPORTUNITIES
-```
+**🔵 Blue Team Defender** | **📍 Bengaluru, India** | **📧 akshajkumar.in@gmail.com**
 
 </div>
