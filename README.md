@@ -1,12 +1,16 @@
 <div align="center">
 
-![Banner](https://i.imgur.com/your-banner-image.png)
+<img src="https://raw.githubusercontent.com/akshaj-io/akshaj-io/main/assets/banner.jpeg"
+     alt="Cyber Banner"
+     width="100%">
 
-<!-- Replace the above URL with your actual pixel art banner image URL -->
+<br><br>
 
-<img src="https://i.imgur.com/your-avatar-image.png" alt="Akshaj Kumar Avatar" width="150" style="border-radius: 50%; border: 3px solid #00FF9D;">
+<img src="https://raw.githubusercontent.com/akshaj-io/akshaj-io/main/assets/avatar.png"
+     alt="Akshaj Kumar Avatar"
+     width="150">
 
-<!-- Replace the above URL with your actual pixel art avatar image URL -->
+</div>
 
 ```
  █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗      ██╗  ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
