@@ -1,30 +1,35 @@
-<!-- ===================== GREEN CRT / TERMINAL THEME ===================== -->
+<!-- ===================== PROFILE README : TERMINAL / PIXEL THEME ===================== -->
+
+<h1 align="center">
+  <code>AKSHAJKUMAR M</code>
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC-Analyst-00ff9c?style=flat&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/SIEM-ELK%20%7C%20ArcSight%20%7C%20Wazuh-00ff9c?style=flat" />
-  <img src="https://img.shields.io/badge/EDR-Sophos-00ff9c?style=flat" />
-  <img src="https://img.shields.io/badge/Networking-TCP/IP%20%7C%20DNS%20%7C%20Firewalls-00ff9c?style=flat" />
-  <img src="https://img.shields.io/badge/Linux-User-00ff9c?style=flat&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-Automation-00ff9c?style=flat&logo=python&logoColor=000000" />
+  <sub><code>soc • siem • networking • automation</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC-Analyst-0db7ed?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/SIEM-ELK%20%7C%20ArcSight%20%7C%20Wazuh-orange?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/EDR/XDR-Sophos-green?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Networking-TCP/IP%20%7C%20DNS%20%7C%20Firewalls-purple?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Linux-User-black?style=flat-square&logo=linux" /><br/>
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?style=flat-square&logo=python" />
 </p>
 
 ---
 
-<pre style="color:#00ff9c; background-color:#000000; padding:14px; border-radius:6px; font-family:monospace;">
+<pre style="background:#0b0b0b;color:#9ef7cf;padding:16px;border-radius:8px;font-family:monospace;">
 $ whoami
 akshaj-io
 
 $ role
 SOC Analyst (L1) | NOC | Cybersecurity
 
-$ focus
-monitoring • detection • response • automation
-
 $ about
 Security-focused engineer with hands-on SOC experience.
 Worked with enterprise SIEM, EDR/XDR, networking, and
-infrastructure tooling. Interested in clean systems,
+infrastructure tooling. Focused on clean systems,
 low-noise detection, and practical security engineering.
 
 $ soc_stack
@@ -71,7 +76,7 @@ $ echo "secure systems. stay curious."
 </pre>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaj-io&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaj-io&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ===================== END GREEN CRT ===================== -->
+<!-- ===================== END ===================== -->
