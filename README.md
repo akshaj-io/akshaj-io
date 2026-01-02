@@ -16,9 +16,7 @@
 └──╼ $ cat profile.txt
 
     Cybersecurity Professional | SIEM Analysis | Incident Response | Firewall Management
-    
-    Current Status: Seeking SOC Analyst (L1) / NOC Engineer roles
-    
+    Current Status: Seeking SOC Analyst (L1) / NOC Engineer roles 
     Ready for Security Challenges: [████████████████████████████] 100%
 ```
 
